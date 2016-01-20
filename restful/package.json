@@ -1,0 +1,11 @@
+{
+  "name": "restful",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "kerberos": "0.0.18",
+    "mongodb": "^2.1.4",
+    "mongoose": "latest",
+    "node-restful": "latest"
+  }
+}

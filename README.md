@@ -1,5 +1,5 @@
 # Projects and basic practice for javascripting.
 
 ## TODO:
-* [ ] restful
+* [x] restful
 * [ ] http lib in javascript
