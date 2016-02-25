@@ -1,0 +1,8 @@
+{
+    "name":"node-trial",
+    "description":"Simple testing and learning purpose",
+    "version": "0.1.0",
+    "dependencies":{
+        "request":"2.69.0"
+    }
+}
