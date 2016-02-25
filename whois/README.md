@@ -1,6 +1,6 @@
 # Whois lookup
 
-[!whois](./whois.png)
+![whois](./whois.png)
 
 ## Usage
 
