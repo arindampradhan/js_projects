@@ -5,5 +5,5 @@
 ## Usage
 
 ```
-    # node app.js facebook.com
+    $ node app.js facebook.com
 ```
